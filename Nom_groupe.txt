@@ -1,0 +1,10 @@
+Groupe compose de :
+- RAFALINIAINA Radolaza Leondaris Valisoa
+- RANAIVOARISON Hariniaina Tsilavina
+- RANDRIATSIZAFY Solohery Sarobidy
+
+Systeme de gestion d'employee
+
+technologie utilisee:
+- ReactJS
+- Springbot
